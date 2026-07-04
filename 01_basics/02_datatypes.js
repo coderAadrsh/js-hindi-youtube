@@ -6,7 +6,7 @@
 //bigint
 //string
 //boolean=> trur,false
-//null=.standalone value
+//null=standalone value
 //undefine=>
     //symbol=> unique
 
