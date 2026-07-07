@@ -53,3 +53,25 @@ console.log(typeof(my_fun))
 
 console.log(typeof(bigNumber))
 
+
+
+//memory:stack=Primitive, Heap=non-primitive
+
+let myYouTubeName="education"
+let anotherName=myYouTubeName
+anotherName="chaiaur code"
+console.log(anotherName)
+console.log(myYouTubeName)
+
+let userone={
+    email:"user@gmail.com",
+    upi:"user@ybl"
+}
+
+user2=userone
+
+user2.email="user2@gmail.com"
+
+console.log(userone.email)
+console.log(user2.email)
+
